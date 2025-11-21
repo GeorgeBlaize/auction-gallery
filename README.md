@@ -9,7 +9,7 @@ This project demonstrates strong React fundamentals, including component composi
 ---
 
 ## 🚀 Live Demo
-👉 https:solid-prison.surge.sh
+👉 https://solid-prison.surge.sh
 
 ---
 
