@@ -6,7 +6,7 @@ import Favorites from './components/Favorites';
 import Footer from './components/Footer';
 import bidItems from './data/bidItems.json';
 import { toast } from 'react-toastify';
-
+import './App.css';
 function App() {
   const [favorites, setFavorites] = useState([]);
 
