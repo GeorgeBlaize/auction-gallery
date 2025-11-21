@@ -1,6 +1,7 @@
 const Banner = () => {
   return (
-    <div className="relative bg-cover bg-center h-64" style={{ backgroundImage: "url('/assets/images/banner-bg.jpg')" }}>
+    <div className="relative bg-cover bg-center h-64" style={{ backgroundImage: "url('https://i.postimg.cc/hjMsWLjb/Banner-min.jpg')" }}
+>
       <div className="absolute inset-0 bg-black opacity-40"></div>
       <div className="relative container mx-auto px-4 py-16 text-white">
         <h2 className="text-4xl font-bold">Bid on Unique Items from Around the World</h2>

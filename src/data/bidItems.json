@@ -6,7 +6,7 @@
     "currentBidPrice": 2850,
     "timeLeft": "2 Days left",
     "bidsCount": 12,
-    "image": "/assets/images/leica.jpg"
+    "image": "/src/assets/images/Bid1-min.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "currentBidPrice": 2850,
     "timeLeft": "2 Days left",
     "bidsCount": 12,
-    "image": "/assets/images/gibson.jpg"
+    "image": "/src/assets/images/Bid2-min.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "currentBidPrice": 2850,
     "timeLeft": "2 Days left",
     "bidsCount": 10,
-    "image": "/assets/images/macintosh.jpg"
+    "image": "/src/assets/images/Bid3-min.png"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "currentBidPrice": 2850,
     "timeLeft": "2 Days left",
     "bidsCount": 15,
-    "image": "/assets/images/rolex.jpg"
+    "image": "/src/assets/images/Bid4-min.png"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "currentBidPrice": 2850,
     "timeLeft": "2 Days left",
     "bidsCount": 8,
-    "image": "/assets/images/gatsby.jpg"
+    "image": "/src/assets/images/Bid5-min.png"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "currentBidPrice": 2850,
     "timeLeft": "2 Days left",
     "bidsCount": 14,
-    "image": "/assets/images/eames.jpg"
+    "image": "/src/assets/images/Bid6-min.png"
   },
   {
     "id": 7,
@@ -60,6 +60,8 @@
     "currentBidPrice": 2850,
     "timeLeft": "2 Days left",
     "bidsCount": 20,
-    "image": "/assets/images/banksy.jpg"
+    "image": "/src/assets/images/Bid7-min.png"
   }
+
+
 ]
